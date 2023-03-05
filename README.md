@@ -6,7 +6,7 @@ I'm a 21-year-old student with a passion for emulation, reverse engineering, and
 
 I also do a bit of webdev, mostly front-end stuff.
 
-I don't yet have any experience as a professional. These things take time :)
+I don't yet have any experience as a professional
 
 ### Contact
 Email: contact@jorun.dev
